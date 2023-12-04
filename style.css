@@ -1,0 +1,98 @@
+/* OBS: Não consegui configurar o footer. Tentei fazer várias vezes, mas não consegui. */
+
+
+body {
+    max-width: 1024px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    font-family: "Open Sans", sans-serif;
+    color: #828282;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    /* line-height: 22px; */
+
+}
+
+h1 {
+    width: 494px;
+    margin: 0px 30px 16px 16px;
+    padding: 0px;
+    color: #3F3D56;
+    text-align: center;
+    font-family: "Dosis", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+#geral {
+    margin: 64px auto;
+    width: 626px;
+}
+
+#geral img {
+    width: 350px;
+    height: 238px;
+    margin-right: 138px;
+    margin-bottom: 32px;
+
+}
+
+#geral p {
+    width: 540px;
+    height: 160px;    
+    padding: 0px;
+   
+}
+
+#paragrafo span, #footer a + a {
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+#footer {
+    margin-bottom: 40px;
+}
+
+#footer #links {
+    margin-right: 380px;
+    margin-left: 376px;
+    padding: 0px;
+    
+}
+
+
+#footer a + a {
+    margin-left: 30px;
+   
+}   
+
+#footer #line {    
+    width: 400px;
+    height: 0px;
+    margin: 0px auto 8px;
+    border: 1px #ECEFF2 solid;
+}
+
+
+#footer img{
+    width: 1024px;
+    height: 104px;
+    flex-shrink: 0;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: 0px;
+    
+   
+    
+} 
